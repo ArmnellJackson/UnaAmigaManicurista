@@ -1,0 +1,15 @@
+ul {
+  background: var(--tono-4);
+  padding: 0;
+  font-family: 'Questrial', sans-serif;
+  /* border-bottom: 1px solid black; */
+}
+
+.nav-pills .nav-link:hover {
+  color: black;
+}
+
+/* Anular el border-radius en los elementos <li> dentro de .nav-pills */
+.nav-pills .nav-item {
+  --bs-nav-pills-border-radius: 0;
+}

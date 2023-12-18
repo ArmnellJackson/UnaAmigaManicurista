@@ -1,0 +1,41 @@
+footer {
+    width: 100%;
+    min-height: 50px;
+    /* border-top: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 7.5px;
+    background: var(--tono-4);
+}
+
+footer .social-footer {
+    display: flex;
+    gap: 7.5px;
+}
+
+footer div {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+footer div .autor {
+    display: flex;
+}
+
+footer div .autor a {
+    text-decoration: none;
+}
+
+
+footer div .autor p {
+    margin: 0;
+    font-size: 1.2rem;
+    color: black;
+  font-family: 'Questrial', sans-serif;
+}
+
+.logo-footer a img {
+    width: 26px;
+}
