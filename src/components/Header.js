@@ -9,7 +9,7 @@ function Header() {
 				<nav className="navbar navbar-expand-lg bg-transparent">
 					<div className="container-fluid">
 						<a className="navbar-brand" href="/">
-							<a class="navbar-brand fs-1" href="/">AM</a>
+							<a class="navbar-brand fs-1" href="/">yo mero mero</a>
 							{/* <img src={Logo} alt="logo AG" width="36" /> */}
 						</a>
 						<section className="social-header">
