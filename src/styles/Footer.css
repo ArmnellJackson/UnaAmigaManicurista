@@ -14,28 +14,24 @@ footer .social-footer {
     gap: 7.5px;
 }
 
-footer div {
+.autor a {
     display: flex;
     align-items: center;
-    gap: 5px;
+    gap: 7.5px;
 }
 
-footer div .autor {
-    display: flex;
+.autor a i {
+    font-size: 1.6rem;
 }
 
-footer div .autor a {
+footer .autor a {
     text-decoration: none;
 }
 
 
-footer div .autor p {
+footer .autor p {
     margin: 0;
     font-size: .8rem;
     color: black;
   font-family: 'Questrial', sans-serif;
-}
-
-.logo-footer a img {
-    width: 26px;
 }

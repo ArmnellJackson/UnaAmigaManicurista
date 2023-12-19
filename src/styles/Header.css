@@ -44,15 +44,11 @@ header section {
 
 .social-header {
 	width: auto;
+	height: auto;
 	display: flex;
 	gap: 7.5px;
-	height: 40px;
 	flex-direction: row;
 	justify-content: flex-end;
-}
-
-.social-header i {
-	font-size: 24px;
 }
 
 @media (min-width: 376px) {

@@ -8,13 +8,25 @@ function Header() {
 			<header id="inicio">
 				<nav className="navbar navbar-expand-lg bg-transparent">
 					<div className="container-fluid">
-						<a className="navbar-brand" href="https://www.instagram.com/newkarlahg?igshid=YTQwZjQ0NmI0OA==" target="_blank" rel="noreferrer">
-							<a class="navbar-brand fs-1" href="https://www.instagram.com/newkarlahg?igshid=YTQwZjQ0NmI0OA==" target="_blank" rel="noreferrer">AM</a>
+						<div className="navbar-brand">
+							<h2 className="navbar-brand fs-1">AM</h2>
 							{/* <img src={Logo} alt="logo AG" width="36" /> */}
-						</a>
+						</div>
 						<section className="social-header">
-							<a href="https://www.instagram.com/newkarlahg?igshid=YTQwZjQ0NmI0OA==" target="_blank" rel="noreferrer">
+							<a href="https://www.instagram.com/unaamigamanicurista?igshid=NGVhN2U2NjQ0Yg==" target="_blank" rel="noreferrer">
 								<i className="bi bi-instagram" style={{ color: '#000000' }}></i>
+							</a>
+
+							<a href="https://www.instagram.com/unaamigamanicurista?igshid=NGVhN2U2NjQ0Yg==" target="_blank" rel="noreferrer">
+								<i className="bi bi-facebook" style={{ color: '#000000' }}></i>
+							</a>
+
+							<a href="https://www.tiktok.com/@unaamigamanicurista" target="_blank" rel="noreferrer">
+								<i className="bi bi-tiktok" style={{ color: '#000000' }}></i>
+							</a>
+
+							<a href="https://www.tiktok.com/@unaamigamanicurista" target="_blank" rel="noreferrer">
+								<i className="bi bi-whatsapp" style={{ color: '#000000' }}></i>
 							</a>
 						</section>
 					</div>
