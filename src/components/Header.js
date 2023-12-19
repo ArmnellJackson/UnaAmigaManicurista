@@ -8,8 +8,8 @@ function Header() {
 			<header id="inicio">
 				<nav className="navbar navbar-expand-lg bg-transparent">
 					<div className="container-fluid">
-						<a className="navbar-brand" href="/">
-							<a class="navbar-brand fs-1" href="/">AM</a>
+						<a className="navbar-brand" href="https://www.instagram.com/newkarlahg?igshid=YTQwZjQ0NmI0OA==" target="_blank" rel="noreferrer">
+							<a class="navbar-brand fs-1" href="https://www.instagram.com/newkarlahg?igshid=YTQwZjQ0NmI0OA==" target="_blank" rel="noreferrer">AM</a>
 							{/* <img src={Logo} alt="logo AG" width="36" /> */}
 						</a>
 						<section className="social-header">
