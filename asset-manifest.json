@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UnaAmigaManicurista/static/css/main.e6f28d09.css",
+    "main.js": "/UnaAmigaManicurista/static/js/main.155125de.js",
+    "static/media/Captura de pantalla 2023-11-10 212027.png": "/UnaAmigaManicurista/static/media/Captura de pantalla 2023-11-10 212027.632ce0ad7edf035427f6.png",
+    "static/media/img-cabecera.jpg": "/UnaAmigaManicurista/static/media/img-cabecera.cababd7d7b1c399ff2e9.jpg",
+    "index.html": "/UnaAmigaManicurista/index.html",
+    "main.e6f28d09.css.map": "/UnaAmigaManicurista/static/css/main.e6f28d09.css.map",
+    "main.155125de.js.map": "/UnaAmigaManicurista/static/js/main.155125de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f28d09.css",
+    "static/js/main.155125de.js"
+  ]
+}
