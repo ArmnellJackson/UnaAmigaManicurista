@@ -52,8 +52,9 @@ header section {
 	font-size: 24px;
 }
 
-@media (min-width: 520px) {
+@media (min-width: 376px) {
 	header {
-	background-size: inherit;
+	background-size: cover;
+	background-image: url('../img/img-cabecera.jpg');
 	}
 }
