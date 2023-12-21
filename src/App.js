@@ -9,8 +9,6 @@ function App() {
       <Header />
 
       <Enlaces />
-      <main>
-      </main>
 
       <Footer />
     </>
