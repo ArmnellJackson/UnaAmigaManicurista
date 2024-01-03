@@ -3,7 +3,7 @@ import React from 'react';
 function Blog() {
   return (
     <main>
-        Blog en construccion...Esperando por New Karla!
+        Blog en construccion...!
     </main>
   )
 }

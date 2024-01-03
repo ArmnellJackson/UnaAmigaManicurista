@@ -3,7 +3,7 @@ import React from 'react';
 function NailArt() {
   return (
     <main>
-        Nail Art en construccion...Esperando por New Karla!
+        Nail Art en construccion...!
     </main>
   )
 }
